@@ -1,0 +1,6 @@
+@pdvback_HostAddress = http://localhost:5220
+
+GET {{pdvback_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
